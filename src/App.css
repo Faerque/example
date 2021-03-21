@@ -1,0 +1,9 @@
+.home{
+  height: 90vh;
+}
+
+@media screen and (max-width: 736px){
+  .home{
+    height: 300vh;
+  }
+}
